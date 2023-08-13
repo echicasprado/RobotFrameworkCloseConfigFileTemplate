@@ -1,0 +1,12 @@
+{
+  "Tags": [
+    {
+      "Key": "ReFramework"
+    },
+    {
+      "Key": "CloseConfigFile"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
