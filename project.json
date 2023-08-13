@@ -1,5 +1,5 @@
 {
-  "name": "RobotFrameCloseConfigFileTemplate",
+  "name": "Robot Framework with close ConfigFile",
   "projectId": "98cee441-3b5d-41ee-8fc6-67a3daaa4047",
   "description": "Robotic Enterprise Framework - If config file is opened, it closes config file and continue with process ",
   "main": "Main.xaml",
